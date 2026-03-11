@@ -13,7 +13,7 @@ The dataset used in this project is the Superstore dataset which contains inform
 - Regions
 
 ## Tools Used
-- Power BI
+- Power BI 
 - Excel
 -SQL
 - Data Cleaning
