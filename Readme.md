@@ -36,5 +36,7 @@ The dashboard includes the following visualizations:
 
 ## Dashboard Preview
 <img width="632" height="340" alt="Screenshot 2026-03-11 163838" src="https://github.com/user-attachments/assets/328b039e-ebd8-4fc7-a8fe-17d7517590f8" />
+
+
 ## Author
 ShubhangiSatav – Data Analyst Portfolio
